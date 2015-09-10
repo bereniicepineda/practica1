@@ -6,29 +6,29 @@ angular.module('starter.services', [])
   // Some fake testing data
   var chats = [{
     id: 0,
-    name: 'Ben Sparrow',
-    lastText: 'You on your way?',
-    face: 'https://pbs.twimg.com/profile_images/514549811765211136/9SgAuHeY.png'
+    name: 'Berenice Ledezma',
+    lastText: 'Donde estas?',
+    face: 'http://41.media.tumblr.com/tumblr_m8z3n6WD0c1rbwu24o1_500.jpg'
   }, {
     id: 1,
-    name: 'Max Lynx',
-    lastText: 'Hey, it\'s me',
-    face: 'https://avatars3.githubusercontent.com/u/11214?v=3&s=460'
+    name: 'Arlenne Mota',
+    lastText: 'Hey,Hola',
+    face: 'http://spa.fotolog.com/photo/10/32/106/panchis_black/1206585485_f.jpg'
   }, {
     id: 2,
-    name: 'Adam Bradleyson',
-    lastText: 'I should buy a boat',
-    face: 'https://pbs.twimg.com/profile_images/479090794058379264/84TKj_qa.jpeg'
+    name: 'Adriana Marroquin',
+    lastText: 'Esta bien, te espero',
+    face: 'http://33.media.tumblr.com/fdcf63c97dc0c265e29d74d2552903da/tumblr_inline_njm327y8js1t5u1md.png'
   }, {
     id: 3,
-    name: 'Perry Governor',
-    lastText: 'Look at my mukluks!',
-    face: 'https://pbs.twimg.com/profile_images/598205061232103424/3j5HUXMY.png'
+    name: 'Jessica Ledezma',
+    lastText: 'Hola,Berenice!',
+    face: 'http://data.whicdn.com/images/37811676/tumblr_ly7qagIM1g1qaobbko1_500_large.png'
   }, {
     id: 4,
-    name: 'Mike Harrington',
-    lastText: 'This is wicked good ice cream.',
-    face: 'https://pbs.twimg.com/profile_images/578237281384841216/R3ae1n61.png'
+    name: 'Karen Ledezma',
+    lastText: 'Donde estas Berenice?.',
+    face: 'https://40.media.tumblr.com/b169b5740347121ff37efbddc087da90/tumblr_na8w0kK3ID1tgt1wvo1_500.jpg'
   }];
 
   return {
